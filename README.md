@@ -1,5 +1,3 @@
-[![Pipeline Status](https://gitlab.crja72.ru/django_2023/projects/team11/badges/main/pipeline.svg)](https://gitlab.crja72.ru/django_2023/projects/team11/commits/main)
-
 # Advanote
 
 ## About The Project
